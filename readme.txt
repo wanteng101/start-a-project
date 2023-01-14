@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git track changes of files.
 third commit abc
 Creating a new branch is quick.
+hello wt
